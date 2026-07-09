@@ -1,34 +1,60 @@
-# MSC-DS-553 Python Programming for Data Science Notes
+# 🐍 MSC-DS-553 Python Programming for Data Science
 
-## M.Sc. Data Science (Semester II)
-**Savitribai Phule Pune University (SPPU)**
-
-Welcome to the **Database Technologies** notes repository.
-
-These notes have been prepared by **Siddheshwar Thaware** for M.Sc. Data Science students studying under Savitribai Phule Pune University.
-
-## 📚 Contents
-
-- Complete Notes 
-- Easy-to-understand explanations
-- Important concepts
-- Exam-oriented preparation
-- Self-prepared study material
-
-## 📥 Download
-
-Open the PDF available in this folder to access the complete notes.
-
-## 🎯 Purpose
-
-These notes are shared free of cost to help students prepare for semester examinations and strengthen their understanding of Database Technologies.
-
-## 📌 Disclaimer
-
-These notes are completely self-prepared and shared only for educational purposes.
+> Complete Python Study Guide for M.Sc. Data Science (SPPU)
 
 ---
 
-Prepared by **Siddheshwar Thaware**
-M.Sc. Data Science Student | SPPU
+## 📖 About
 
+This repository contains comprehensive Python Programming for Data Science notes prepared specifically for M.Sc. Data Science students following the Savitribai Phule Pune University syllabus.
+
+The guide covers Python fundamentals, control flow, data structures, modules, file handling, exception handling, NumPy, and Pandas, with a strong focus on exam preparation and practical data science applications. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+
+---
+
+## 📚 Topics Covered
+
+- Python Basics
+- Variables & Data Types
+- Operators
+- Control Statements
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Modules
+- File Handling
+- Exception Handling
+- NumPy
+- Pandas
+
+---
+
+## 💻 Includes
+
+- Theory
+- Examples
+- Python Programs
+- Output
+- Diagrams
+- Practice Questions
+- Exam Tips
+
+---
+
+## 👨‍💻 Author
+
+**Siddheshwar Thaware**
+
+Portfolio
+
+https://portfolio-sidt0518.onrender.com
+
+GitHub
+
+https://github.com/sidthaware0518
+
+---
+
+⭐ Star this repository if these notes helped you.

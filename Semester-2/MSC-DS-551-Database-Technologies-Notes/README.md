@@ -1,33 +1,75 @@
-# MSC-DS-551 Database Technologies Notes
+# 📘 MSC-DS-551 Database Technologies
 
-## M.Sc. Data Science (Semester II)
-**Savitribai Phule Pune University (SPPU)**
-
-Welcome to the **Database Technologies** notes repository.
-
-These notes have been prepared by **Siddheshwar Thaware** for M.Sc. Data Science students studying under Savitribai Phule Pune University.
-
-## 📚 Contents
-
-- Complete Notes (Unit 1 to Unit 5)
-- Easy-to-understand explanations
-- Important concepts
-- Exam-oriented preparation
-- Self-prepared study material
-
-## 📥 Download
-
-Open the PDF available in this folder to access the complete notes.
-
-## 🎯 Purpose
-
-These notes are shared free of cost to help students prepare for semester examinations and strengthen their understanding of Database Technologies.
-
-## 📌 Disclaimer
-
-These notes are completely self-prepared and shared only for educational purposes.
+> Complete Study Notes for **M.Sc. Data Science (Semester II)**  
+> Savitribai Phule Pune University (SPPU)
 
 ---
 
-Prepared by **Siddheshwar Thaware**
-M.Sc. Data Science Student | SPPU
+## 📖 About
+
+These notes are designed to help M.Sc. Data Science students understand Database Technologies from fundamentals to exam preparation.
+
+The material is completely self-prepared and written in a structured format suitable for both university examinations and practical understanding.
+
+---
+
+## 📚 What's Included
+
+✅ Complete syllabus coverage
+
+✅ Unit-wise explanations
+
+✅ Definitions
+
+✅ Diagrams
+
+✅ SQL Concepts
+
+✅ DBMS & RDBMS
+
+✅ Transactions
+
+✅ Normalization
+
+✅ Query Examples
+
+✅ Exam-Oriented Notes
+
+---
+
+## 🎯 Suitable For
+
+- M.Sc. Data Science Students
+- SPPU Students
+- University Exam Preparation
+- Quick Revision
+- Interview Fundamentals
+
+---
+
+## 📥 Contents
+
+- Complete Notes (All Units)
+- Examples
+- Important Concepts
+- Exam Preparation
+
+---
+
+## 👨‍💻 Author
+
+**Siddheshwar Thaware**
+
+M.Sc. Data Science Student
+
+Savitribai Phule Pune University
+
+🌐 Portfolio:
+https://portfolio-sidt0518.onrender.com
+
+GitHub:
+https://github.com/sidthaware0518
+
+---
+
+⭐ If these notes helped you, please consider starring this repository.

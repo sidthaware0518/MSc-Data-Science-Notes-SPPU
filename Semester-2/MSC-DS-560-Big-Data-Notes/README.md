@@ -1,35 +1,53 @@
-# MSC-DS-560 Big Data Notes
+# 📊 MSC-DS-560 Big Data
 
-## M.Sc. Data Science (Semester II)
-**Savitribai Phule Pune University (SPPU)**
-
-Welcome to the **Database Technologies** notes repository.
-
-These notes have been prepared by **Siddheshwar Thaware** for M.Sc. Data Science students studying under Savitribai Phule Pune University.
-
-## 📚 Contents
-
-- Complete Notes 
-- Easy-to-understand explanations
-- Important concepts
-- Exam-oriented preparation
-- Self-prepared study material
-
-## 📥 Download
-
-Open the PDF available in this folder to access the complete notes.
-
-## 🎯 Purpose
-
-These notes are shared free of cost to help students prepare for semester examinations and strengthen their understanding of Database Technologies.
-
-## 📌 Disclaimer
-
-These notes are completely self-prepared and shared only for educational purposes.
+> Complete Big Data Notes for M.Sc. Data Science (SPPU)
 
 ---
 
-Prepared by **Siddheshwar Thaware**
-M.Sc. Data Science Student | SPPU
+## 📖 About
 
+These notes provide a structured introduction to Big Data concepts, Hadoop, distributed processing, data preprocessing, analytics, visualization, scalability, and real-world case studies.
 
+The material is written to help students understand concepts from first principles while preparing effectively for university examinations and practical projects. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📚 Contents
+
+- Introduction to Big Data
+- Hadoop
+- HDFS
+- MapReduce
+- Data Preprocessing
+- Data Mining
+- Big Data Visualization
+- Scalability
+- Performance
+- Case Studies
+
+---
+
+## 🎯 Best For
+
+- Semester Exam
+- Interview Preparation
+- Project Development
+- Hadoop Fundamentals
+
+---
+
+## 👨‍💻 Author
+
+**Siddheshwar Thaware**
+
+Portfolio
+
+https://portfolio-sidt0518.onrender.com
+
+GitHub
+
+https://github.com/sidthaware0518
+
+---
+
+⭐ Please Star this repository.

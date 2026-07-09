@@ -1,79 +1,82 @@
-# 🎓 MSc Data Science Notes (SPPU)
-
 <div align="center">
 
-# 📚 Complete M.Sc. Data Science Study Resources
+# 🎓 MSc Data Science Notes (SPPU)
 
-### Savitribai Phule Pune University (SPPU)
+### 📚 Complete Study Resources for M.Sc. Data Science Students
 
-Complete, self-prepared study notes, practical resources, and exam-oriented materials for M.Sc. Data Science students.
+![SPPU](https://img.shields.io/badge/University-SPPU-red?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semesters-I--IV-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-English-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-🌐 **Portfolio**
-https://portfolio-sidt0518.onrender.com
+---
 
-💻 **GitHub**
-https://github.com/sidthaware0518
+### 🚀 One Repository • Complete M.Sc. Data Science Learning Hub
 
-⭐ **If these notes help you, please Star this repository!**
+Designed for **Savitribai Phule Pune University (SPPU)** students with complete self-prepared notes, practical resources, previous year papers, assignments, and exam-oriented study material.
+
+⭐ **If this repository helps you, please Star it!**
 
 </div>
 
 ---
 
-# 📖 About This Repository
+# 📖 About
 
 Welcome to the **MSc Data Science Notes (SPPU)** repository.
 
-This repository contains **self-prepared**, **exam-oriented**, and **concept-focused** study notes created specifically for **Savitribai Phule Pune University (SPPU)** M.Sc. Data Science students.
+This repository contains **high-quality self-prepared study notes** created specifically for **Savitribai Phule Pune University (SPPU)** M.Sc. Data Science students.
 
-The objective is to provide one place where students can find complete semester-wise study material, practical resources, and revision notes.
+Every note is designed to make learning easier using:
+
+- 💡 Intuitive explanations
+- 📚 Complete syllabus coverage
+- 📊 Diagrams & illustrations
+- 💻 Practical examples
+- 📝 Exam-oriented content
+- 📖 Simple language
+- 🎯 Quick revision points
 
 ---
 
-# 🎯 Repository Features
+# ✨ Repository Highlights
 
-- 📚 Semester-wise Notes
-- 📖 Subject-wise Study Material
-- 📝 Exam-Oriented Content
-- 💡 Conceptual Explanations
-- 📊 Diagrams & Illustrations
-- 💻 Practical Examples
-- 📑 Important Questions
-- 🎯 Revision Friendly
-- 📥 Easy PDF Downloads
-- 🆓 Free Educational Resource
+| Feature | Available |
+|----------|-----------|
+| 📚 Semester-wise Notes | ✅ |
+| 📖 Subject-wise Study Material | ✅ |
+| 📝 Exam Preparation | ✅ |
+| 📊 Diagrams | ✅ |
+| 💻 Practical Examples | ✅ |
+| 📑 Assignments | ✅ |
+| 📄 Previous Year Papers | ✅ |
+| 📥 PDF Notes | ✅ |
+| 🎯 Revision Notes | ✅ |
+| 🆓 Free Educational Resource | ✅ |
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-MSc-Data-Science-Notes-SPPU/
+MSc-Data-Science-Notes-SPPU
 
+├── 📁 Semester-1
+├── 📁 Semester-2
+├── 📁 Semester-3
+├── 📁 Semester-4
 │
-
-├── Semester-1
-
-├── Semester-2
-
-├── Semester-3
-
-├── Semester-4
-
+├── 📁 Practicals
+├── 📁 Question-Papers
+├── 📁 Assignments
+├── 📁 Syllabus
 │
-
-├── Question-Papers
-
-├── Practicals
-
-├── Assignments
-
-└── Syllabus
+└── README.md
 ```
 
 ---
 
-# 📚 Semester II Subjects
+# 🎓 Semester II Subjects
 
 | Subject Code | Subject |
 |--------------|---------|
@@ -85,65 +88,74 @@ MSc-Data-Science-Notes-SPPU/
 
 ---
 
-# 🎓 Who Can Use These Notes?
+# 🎯 Who Can Use These Notes?
 
-These notes are useful for
+✅ M.Sc. Data Science Students
 
-- M.Sc. Data Science Students
-- Savitribai Phule Pune University Students
-- University Exam Preparation
-- Quick Revision
-- Interview Preparation
-- Self Learning
-- Beginners in Data Science
+✅ SPPU Students
 
----
+✅ University Exam Preparation
 
-# 📥 How to Use
+✅ Data Science Beginners
 
-1. Open the required Semester.
-2. Open the Subject Folder.
-3. Download the PDF Notes.
-4. Start Learning.
+✅ Self Learners
+
+✅ Interview Preparation
 
 ---
 
 # 🌐 Connect With Me
 
-## 👨‍💻 Siddheshwar Thaware
+### 👨‍💻 Siddheshwar Thaware
 
 🎓 M.Sc. Data Science Student
 
-Savitribai Phule Pune University
-
-🌐 Portfolio
+🌐 **Portfolio**
 
 https://portfolio-sidt0518.onrender.com
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/sidthaware0518
 
 ---
 
-# ⚖️ Copyright & Usage
+# 🚀 Future Updates
+
+The repository will continuously grow with:
+
+- 📚 Semester 1 Notes
+- 📚 Semester 3 Notes
+- 📚 Semester 4 Notes
+- 📄 Previous Year Question Papers
+- 💻 Practical Files
+- 📑 Assignments
+- 🎯 Viva Questions
+- 🧠 MCQs
+- 📖 Books & References
+- 🚀 Mini Projects
+- 📊 Data Science Interview Preparation
+
+---
+
+# ⚖️ Copyright
 
 © 2026 Siddheshwar Thaware
 
-These notes are completely self-prepared and shared only for educational purposes.
+These study notes are **100% self-prepared** and are shared only for educational purposes.
 
-✅ You are welcome to
+### ✅ Allowed
 
-- Read
-- Download
-- Use for Personal Learning
+- Personal Learning
+- University Exam Preparation
+- Academic Reference
 
-❌ You may NOT
+### ❌ Not Allowed
 
-- Re-upload these notes on other platforms
-- Sell these notes
-- Modify and redistribute without permission
-- Claim these notes as your own work
+- Re-uploading on other websites
+- Selling these notes
+- Modifying and redistributing
+- Claiming ownership
 
 ---
 
@@ -151,17 +163,17 @@ These notes are completely self-prepared and shared only for educational purpose
 
 If these notes helped you,
 
-⭐ Star this Repository
+⭐ Star this repository
 
-🍴 Share it with your classmates
+🍴 Share it with your friends
 
-📢 Help other students learn
+📢 Help other students
 
 ---
 
 <div align="center">
 
-## Happy Learning 📚
+# 📚 Learn • Practice • Grow
 
 ### Best Wishes for Your University Examinations 🎓
 

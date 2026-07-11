@@ -1,23 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner/banner.png" alt="MSc Data Science Notes Banner" width="100%">
+</p>
 
-# 🎓 MSc Data Science Notes (SPPU)
+<p align="center">
+  <img src="assets/logo/logo.png" width="170" alt="Repository Logo">
+</p>
 
-### 📚 Complete Study Resources for M.Sc. Data Science Students
+<h1 align="center">🎓 MSc Data Science Notes (SPPU)</h1>
 
-![SPPU](https://img.shields.io/badge/University-SPPU-red?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semesters-I--IV-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-English-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+<p align="center">
+<b>Complete Self-Prepared Study Resources for Savitribai Phule Pune University (SPPU)</b>
+</p>
 
----
+<p align="center">
 
-### 🚀 One Repository • Complete M.Sc. Data Science Learning Hub
+Notes • Practicals • Previous Year Papers • Assignments • Interview Preparation
 
-Designed for **Savitribai Phule Pune University (SPPU)** students with complete self-prepared notes, practical resources, previous year papers, assignments, and exam-oriented study material.
+</p>
 
-⭐ **If this repository helps you, please Star it!**
+<p align="center">
 
-</div>
+<a href="https://portfolio-sidt0518.onrender.com/">🌐 Portfolio</a> •
+<a href="https://github.com/sidthaware0518">💻 GitHub</a>
+
+</p>
 
 ---
 
@@ -25,34 +31,24 @@ Designed for **Savitribai Phule Pune University (SPPU)** students with complete 
 
 Welcome to the **MSc Data Science Notes (SPPU)** repository.
 
-This repository contains **high-quality self-prepared study notes** created specifically for **Savitribai Phule Pune University (SPPU)** M.Sc. Data Science students.
+This repository contains **high-quality self-prepared study notes** created for **Savitribai Phule Pune University (SPPU)** students.
 
-Every note is designed to make learning easier using:
-
-- 💡 Intuitive explanations
-- 📚 Complete syllabus coverage
-- 📊 Diagrams & illustrations
-- 💻 Practical examples
-- 📝 Exam-oriented content
-- 📖 Simple language
-- 🎯 Quick revision points
+The goal is to provide **free, structured, and exam-oriented learning resources** that help students understand concepts clearly and prepare confidently for university examinations.
 
 ---
 
-# ✨ Repository Highlights
+# ✨ Repository Features
 
-| Feature | Available |
-|----------|-----------|
-| 📚 Semester-wise Notes | ✅ |
-| 📖 Subject-wise Study Material | ✅ |
-| 📝 Exam Preparation | ✅ |
-| 📊 Diagrams | ✅ |
-| 💻 Practical Examples | ✅ |
-| 📑 Assignments | ✅ |
-| 📄 Previous Year Papers | ✅ |
-| 📥 PDF Notes | ✅ |
-| 🎯 Revision Notes | ✅ |
-| 🆓 Free Educational Resource | ✅ |
+- 📚 Semester-wise Notes
+- 📖 Subject-wise Study Material
+- 💻 Practicals
+- 📄 Previous Year Question Papers
+- 📝 Assignments
+- 📊 Diagrams & Illustrations
+- 🧠 Interview Preparation
+- 🎯 Exam-Oriented Notes
+- 📥 Downloadable PDFs
+- 🆓 Free Educational Resources
 
 ---
 
@@ -61,124 +57,134 @@ Every note is designed to make learning easier using:
 ```text
 MSc-Data-Science-Notes-SPPU
 
-├── 📁 Semester-1
-├── 📁 Semester-2
-├── 📁 Semester-3
-├── 📁 Semester-4
+├── Semester-1
+├── Semester-2
+│   ├── MSC-DS-551 Database Technologies
+│   ├── MSC-DS-552 Machine Learning
+│   ├── MSC-DS-553 Python Programming for Data Science
+│   ├── MSC-DS-560 Big Data
+│   └── MSC-DS-562 Deep Learning
 │
-├── 📁 Practicals
-├── 📁 Question-Papers
-├── 📁 Assignments
-├── 📁 Syllabus
-│
-└── README.md
+├── Semester-3
+├── Semester-4
+├── Practicals
+├── Question-Papers
+├── Assignments
+├── Syllabus
+└── assets
 ```
 
 ---
 
-# 🎓 Semester II Subjects
+# 📚 Semester II Subjects
 
-| Subject Code | Subject |
-|--------------|---------|
-| MSC-DS-551 | Database Technologies |
-| MSC-DS-552 | Machine Learning |
-| MSC-DS-553 | Python Programming for Data Science |
-| MSC-DS-560 | Big Data |
-| MSC-DS-562 | Deep Learning |
+| Subject | Status |
+|----------|--------|
+| 📘 Database Technologies | ✅ Available |
+| 🤖 Machine Learning | ✅ Available |
+| 🐍 Python Programming for Data Science | ✅ Available |
+| ☁️ Big Data | ✅ Available |
+| 🧠 Deep Learning | ✅ Available |
 
 ---
 
 # 🎯 Who Can Use These Notes?
 
-✅ M.Sc. Data Science Students
+These notes are useful for:
 
-✅ SPPU Students
+- M.Sc. Data Science Students
+- Savitribai Phule Pune University (SPPU) Students
+- University Exam Preparation
+- Data Science Beginners
+- Self Learners
+- Interview Preparation
 
-✅ University Exam Preparation
+---
 
-✅ Data Science Beginners
+# 📥 How to Use
 
-✅ Self Learners
-
-✅ Interview Preparation
+1. Open the required semester.
+2. Select your subject.
+3. Open the PDF notes.
+4. Download or read online.
+5. Start learning.
 
 ---
 
 # 🌐 Connect With Me
 
-### 👨‍💻 Siddheshwar Thaware
+## Siddheshwar Thaware
 
 🎓 M.Sc. Data Science Student
 
-🌐 **Portfolio**
-
-https://portfolio-sidt0518.onrender.com
-
-💻 **GitHub**
-
-https://github.com/sidthaware0518
+- 🌐 Portfolio: https://portfolio-sidt0518.onrender.com/
+- 💻 GitHub: https://github.com/sidthaware0518
 
 ---
 
-# 🚀 Future Updates
+# 🚀 Roadmap
 
-The repository will continuously grow with:
+Upcoming additions to this repository:
 
-- 📚 Semester 1 Notes
-- 📚 Semester 3 Notes
-- 📚 Semester 4 Notes
-- 📄 Previous Year Question Papers
-- 💻 Practical Files
-- 📑 Assignments
-- 🎯 Viva Questions
-- 🧠 MCQs
-- 📖 Books & References
-- 🚀 Mini Projects
-- 📊 Data Science Interview Preparation
-
----
-
-# ⚖️ Copyright
-
-© 2026 Siddheshwar Thaware
-
-These study notes are **100% self-prepared** and are shared only for educational purposes.
-
-### ✅ Allowed
-
-- Personal Learning
-- University Exam Preparation
-- Academic Reference
-
-### ❌ Not Allowed
-
-- Re-uploading on other websites
-- Selling these notes
-- Modifying and redistributing
-- Claiming ownership
+- ✅ Semester 3 Notes
+- ✅ Semester 4 Notes
+- ✅ Practical Files
+- ✅ Previous Year Papers
+- ✅ Assignments
+- ✅ Viva Questions
+- ✅ Interview Questions
+- ✅ Data Science Projects
+- ✅ Mini Projects
+- ✅ Placement Preparation
 
 ---
 
-# ❤️ Support This Project
+# 🤝 Contributing
+
+Suggestions to improve the notes are welcome.
+
+If you find any mistakes or have ideas to improve the repository, feel free to open an Issue or Fork the repository and submit improvements.
+
+---
+
+# ⭐ Support
 
 If these notes helped you,
 
 ⭐ Star this repository
 
-🍴 Share it with your friends
+📢 Share it with your classmates
 
-📢 Help other students
+🤝 Help other students
+
+---
+
+# 📄 License & Copyright
+
+© 2026 Siddheshwar Thaware
+
+These notes are **self-prepared** and shared for **educational purposes only**.
+
+You may:
+
+- ✅ Read
+- ✅ Download
+- ✅ Use for personal study
+
+You may not:
+
+- ❌ Re-upload these notes on other platforms without permission
+- ❌ Sell these notes
+- ❌ Claim these notes as your own work
 
 ---
 
 <div align="center">
 
-# 📚 Learn • Practice • Grow
+## 📚 Learn • Practice • Build • Grow
 
 ### Best Wishes for Your University Examinations 🎓
 
-Made with ❤️ by
-
-# Siddheshwar Thaware
+Made with ❤️ by **Siddheshwar Thaware**
 
 </div>
